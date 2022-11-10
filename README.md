@@ -1,2 +1,2 @@
 # Web-UI
-Angular, React JS, JS
+Angular, React JS, Javascipt
